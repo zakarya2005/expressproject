@@ -1,0 +1,9 @@
+# .gitignore
+node_modules/
+.DS_Store
+.env
+*.log
+*.tmp
+*.pid
+.idea/
+.vscode/
